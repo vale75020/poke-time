@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.d0c13613.chunk.css",
-    "main.js": "/static/js/main.8203f8a0.chunk.js",
-    "main.js.map": "/static/js/main.8203f8a0.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/js/2.93fd6848.chunk.js": "/static/js/2.93fd6848.chunk.js",
-    "static/js/2.93fd6848.chunk.js.map": "/static/js/2.93fd6848.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.fe82c3b28d418e6c9793c48e063e2e8c.js": "/precache-manifest.fe82c3b28d418e6c9793c48e063e2e8c.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.d0c13613.chunk.css.map": "/static/css/main.d0c13613.chunk.css.map",
-    "static/media/pokeball.png": "/static/media/pokeball.f10bf078.png"
+    "main.css": "/poke-time-redux/static/css/main.d0c13613.chunk.css",
+    "main.js": "/poke-time-redux/static/js/main.abfc4c27.chunk.js",
+    "main.js.map": "/poke-time-redux/static/js/main.abfc4c27.chunk.js.map",
+    "runtime~main.js": "/poke-time-redux/static/js/runtime~main.60c1f189.js",
+    "runtime~main.js.map": "/poke-time-redux/static/js/runtime~main.60c1f189.js.map",
+    "static/js/2.93fd6848.chunk.js": "/poke-time-redux/static/js/2.93fd6848.chunk.js",
+    "static/js/2.93fd6848.chunk.js.map": "/poke-time-redux/static/js/2.93fd6848.chunk.js.map",
+    "index.html": "/poke-time-redux/index.html",
+    "precache-manifest.9111ef5bf22b7416cac10838373cca72.js": "/poke-time-redux/precache-manifest.9111ef5bf22b7416cac10838373cca72.js",
+    "service-worker.js": "/poke-time-redux/service-worker.js",
+    "static/css/main.d0c13613.chunk.css.map": "/poke-time-redux/static/css/main.d0c13613.chunk.css.map",
+    "static/media/pokeball.png": "/poke-time-redux/static/media/pokeball.f10bf078.png"
   }
 }
